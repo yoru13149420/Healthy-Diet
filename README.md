@@ -1,6 +1,7 @@
 # Health Diet
 # SHU-IM-31-Graduation Project
 ### use laravel
+foodmap <-DB use mysql
 
 安裝 php, composer
 
@@ -16,7 +17,7 @@ php artisan serve
 
 路由 routes/web.php
 
-app/sModels 對應db table
+app/sModels 對應DB table
 
 新增 API 或指令在 app/Http/Controllers
 
