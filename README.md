@@ -1,4 +1,4 @@
-# Health Diet
+# Healthy Diet
 # SHU-IM-31-Graduation Project
 ## 功能概述
 1.地圖搜索
