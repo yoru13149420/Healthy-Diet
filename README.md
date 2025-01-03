@@ -1,5 +1,7 @@
 # Healthy Diet
 # SHU-IM-31-Graduation Project
+# DEMO VIDEO ： https://drive.google.com/file/d/144N6Ll7iC7zmhDd3N7HNRcDo1jSKnv-9/view?usp=sharing
+
 ## 功能概述
 1.地圖搜索
 2.列表搜索
